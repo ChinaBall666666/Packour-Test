@@ -26,6 +26,9 @@ Fix some bugs.
 0.9.2(2023.7.11)
 Finished base code
 
+Code By:
+Scean.exe
+
 Special Thanks:
 Doggy
 蔡白坤
