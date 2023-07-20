@@ -2,6 +2,10 @@
 Now we can play it in the Brouser.
 
 Update Log:
+1.0.3(2023.7.20)
+Fix tons of bugs.
+Add Level6.
+Change UI.
 1.0.2(2023.7.19)
 Add Level4 and 5.
 Fix some bugs.
