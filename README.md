@@ -1,6 +1,6 @@
 # Packour-Test
 我是个傻逼！
-[bing](cn.bing.com)
+
 
 Update Log:
 
